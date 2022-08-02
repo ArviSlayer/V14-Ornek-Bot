@@ -37,7 +37,7 @@ require("./events/message.js")
 require("./events/ready.js")
 
 client.login(config.token || process.env.TOKEN).catch(e => {
-console.log("Botunuz Tokenin Hatalı Veya İntentleri Kapalı")
+console.log("Botun Tokeni Hatalı Veya İntentleri Kapalı")
 })
 
 
