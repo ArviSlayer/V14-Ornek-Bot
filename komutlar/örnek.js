@@ -17,3 +17,14 @@ exports.conf = {
 exports.help = {
   name: "örnek"
 };
+
+
+
+
+
+
+
+
+
+
+//ArviS#0011
