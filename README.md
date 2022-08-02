@@ -1,2 +1,2 @@
-# V14-Ornek-Bot
-V14 - Örnek Bir Bot
+# Kullanmaya Başlamadan Önce Şunu Yazın:
+npm i
